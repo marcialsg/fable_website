@@ -1,0 +1,42 @@
+.layout{
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 10000;
+    margin-left: 35%;
+    margin-top: 10%;
+    overflow: hidden;
+}
+.cookie-container{
+    position: fixed;
+    background: #fff;
+    z-index: 10001;
+    padding: 0 32px;
+    height: 600px;
+    width: 600px;
+    align-content: center;
+    vertical-align: middle;
+    border-radius: 5%;
+}
+.cookie-btn1{
+    background: #000000;
+    border: 0;
+    border-radius: 20%;
+    color: #fff;
+    font-size: x-large;
+    padding: 12px;
+}
+
+.cookie-btn2{
+    background: rgb(32, 167, 66);
+    border: 0;
+    border-radius: 20%;
+    color: #fff;
+    font-size: x-large;   /*  ; */
+    padding: 12px;
+    /* margin-left: ; */
+}
+
+.text-disclaimer{
+    margin-top: 50px;
+    color: #000000;
+
+}

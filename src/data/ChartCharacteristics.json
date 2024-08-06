@@ -1,0 +1,2046 @@
+{
+    "ProtectedAreasForest": [
+        {
+            "type": "bar",
+            "label": "Protected Areas Forest",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#307a33",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "ProtectedAreasOther": [
+        {
+            "type": "bar",
+            "label": "Protected Areas Other",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#ffd54f",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "ProtectedAreasOtherNat": [
+        {
+            "type": "bar",
+            "label": "Protected Areas Other Nat",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#81c784",
+            "pointBorderColor": "#EC932F",
+            "pointBackgroundColor": "#EC932F",
+            "pointHoverBackgroundColor": "#EC932F",
+            "pointHoverBorderColor": "#EC932F",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "kcal_feasible": [
+        {
+            "type": "bar",
+            "backgroundColor": "#ffc107",
+            "borderColor": "#ffc107",
+            "label": "Kcal Feas",
+            "yAxisID": "y-axis-2"
+        }
+    ],
+    "kcal_feasiblenew": [
+        {
+            "type": "bar",
+            "backgroundColor": "#ffc107",
+            "borderColor": "#ffc107",
+            "label": "Average feasible daily intake per capita",
+            "yAxisID": "y-axis-2"
+        }
+    ],
+    "pou_computed": [
+        {
+            "type": "bar",
+            "backgroundColor": "#ffc107",
+            "borderColor": "#ffc107",
+            "label": "Prevalence of undernourshment",
+            "yAxisID": "y-axis-2"
+        }
+    ],
+    "Protein_feasible": [
+        {
+            "type": "bar",
+            "label": "Feasible protein",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#ffc107",
+            "pointBorderColor": "#EC932F",
+            "pointBackgroundColor": "#EC932F",
+            "pointHoverBackgroundColor": "#EC932F",
+            "pointHoverBorderColor": "#EC932F",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "Fat_feasible": [
+        {
+            "type": "bar",
+            "label": "Feasible fat",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcPasture": [
+        {
+            "type": "bar",
+            "label": "Pasture",
+            "borderColor": "#36a2eb",
+            "backgroundColor": "#307a33",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcCropland": [
+        {
+            "type": "bar",
+            "label": "Cropland",
+            "borderColor": "#ff006e",
+            "backgroundColor": "#81c784",
+            "pointBorderColor": "#ff006e",
+            "pointBackgroundColor": "#ff006e",
+            "pointHoverBackgroundColor": "#ff006e",
+            "pointHoverBorderColor": "#ff006e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcForest": [
+        {
+            "type": "bar",
+            "label": "Forest",
+            "borderColor": "#e71d36",
+            "backgroundColor": "#ffd54f",
+            "pointBorderColor": "#e71d36",
+            "pointBackgroundColor": "#e71d36",
+            "pointHoverBackgroundColor": "#e71d36",
+            "pointHoverBorderColor": "#e71d36",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcNewForest": [
+        {
+            "type": "bar",
+            "label": "NewForest",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#000000",
+            "pointBorderColor": "#4ecdc4",
+            "pointBackgroundColor": "#4ecdc4",
+            "pointHoverBackgroundColor": "#4ecdc4",
+            "pointHoverBorderColor": "#4ecdc4",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcOtherLand": [
+        {
+            "type": "bar",
+            "label": "OtherLand",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#e64a19",
+            "pointBorderColor": "#4ecdc4",
+            "pointBackgroundColor": "#4ecdc4",
+            "pointHoverBackgroundColor": "#4ecdc4",
+            "pointHoverBorderColor": "#4ecdc4",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcUrban": [
+        {
+            "type": "bar",
+            "label": "Urban",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "target_mder": [
+        {
+            "type": "scatter",
+            "label": "MDER",
+            "fill": false,
+            "backgroundColor": "red",
+            "borderColor": "red",
+            "yAxisID": "y-axis-1",
+            "radius": 6,
+            "borderWidth": 1
+        }
+    ],
+    "target_pou": [
+        {
+            "type": "scatter",
+            "label": "FABLE Target",
+            "fill": false,
+            "backgroundColor": "red",
+            "borderColor": "red",
+            "yAxisID": "y-axis-1",
+            "radius": 5,
+            "borderWidth": 1,
+            "usePointStyle": false,
+            "pointStyle": "triangle"
+        }
+    ],
+    "<2.5target_pou": [
+        {
+            "type": "scatter",
+            "label": "< 2.5",
+            "backgroundColor": "orage",
+            "borderColor": "orange",
+            "pointStyle": "circle"
+        }
+    ],
+    "target_mderup": [
+        {
+            "type": "scatter",
+            "label": "FABLE Target (upper bound, 150% of the MDER)",
+            "fill": false,
+            "backgroundColor": "green",
+            "borderColor": "green",
+            "yAxisID": "y-axis-1",
+            "radius": 6,
+            "borderWidth": 1
+        }
+    ],
+    "target_mderdown": [
+        {
+            "type": "scatter",
+            "label": "FABLE Target (lower bound, 110% of the MDER)",
+            "fill": false,
+            "backgroundColor": "red",
+            "borderColor": "red",
+            "yAxisID": "y-axis-1",
+            "radius": 6,
+            "borderWidth": 1
+        }
+    ],
+    "target_biodiversity": [
+        {
+            "type": "scatter",
+            "label": "Target Biodiversity",
+            "fill": false,
+            "backgroundColor": "#56c02b",
+            "borderColor": "#56c02b",
+            "yAxisID": "y-axis-1",
+            "radius": 6,
+            "borderWidth": 1
+        }
+    ],
+
+    "target": [
+        {
+            "type": "scatter",
+            "label": "Target",
+            "fill": false,
+            "backgroundColor": "grey",
+            "borderColor": "grey",
+            "yAxisID": "y-axis-1",
+            "radius": 6,
+            "borderWidth": 1
+        }
+    ],
+    "cubic_metres": [
+        {
+            "type": "bar",
+            "label": "Blue water",
+            "borderColor": "#81c784",
+            "backgroundColor": "#0072f0",
+            "pointBorderColor": "#81c784",
+            "pointBackgroundColor": "#81c784",
+            "pointHoverBorderColor": "#81c784",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Livestock_CH4": [
+        {
+            "type": "bar",
+            "label": "Livestock CH4",
+            "borderColor": "#4dd0e1",
+            "backgroundColor": "#4dd0e1",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Livestock_N20": [
+        {
+            "type": "bar",
+            "label": "Livestock N2O",
+            "fill": false,
+            "borderColor": "#b2ebf2",
+            "backgroundColor": "#b2ebf2",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Crop_N20": [
+        {
+            "type": "bar",
+            "label": "Crop N2O",
+            "fill": false,
+            "borderColor": "#64b5f6",
+            "backgroundColor": "#64b5f6",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Crop_CH4": [
+        {
+            "type": "bar",
+            "label": "Crop CH4",
+            "fill": false,
+            "borderColor": "#f10096",
+            "backgroundColor": "#f10096",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Crop_CO2": [
+        {
+            "type": "bar",
+            "label": "Crop CO2",
+            "fill": false,
+            "borderColor": "#0072f0",
+            "backgroundColor": "#0072f0",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Total_GHG_agric": [
+        {
+            "type": "line",
+            "label": "Total GHG agric",
+            "fill": false,
+            "radius": 6,
+            "backgroundColor": "grey",
+            "borderColor": "grey",
+            "yAxisID": "y-axis-1",
+            "borderWidth": "0.1"
+        }
+    ],
+    "MDER": [
+        {
+            "type": "line",
+            "label": "MDER",
+            "fill": false,
+            "radius": 6,
+            "backgroundColor": "grey",
+            "borderColor": "grey",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "FAO_GHGagric": [
+        {
+            "type": "scatter",
+            "label": "FAO Agric global",
+            "fill": true,
+            "borderColor": "transparent",
+            "backgroundColor": "black",
+            "radius": 6,
+            "pointBorderColor": "black",
+            "pointBackgroundColor": "black",
+            "pointHoverBackgroundColor": "grey",
+            "pointHoverBorderColor": "grey",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "ghg_agri_target": [
+        {
+            "type": "scatter",
+            "label": "Target GHG agri",
+            "fill": true,
+            "borderColor": "transparent",
+            "backgroundColor": "red",
+            "radius": 6,
+            "pointBorderColor": "red",
+            "pointBackgroundColor": "red",
+            "pointHoverBackgroundColor": "red",
+            "pointHoverBorderColor": "red",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "2030_mature_forest_cover": [
+        {
+            "type": "line",
+            "label": "FABLE Target",
+            "fill": false,
+            "borderColor": "red",
+            "backgroundColor": "red",
+            "tension": 0.1
+        }
+    ],
+    "histlnpp": [
+        {
+            "type": "line",
+            "label": "Historical values for mature LNPP (FABLE Secretariat)",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "tension": 0.1
+        }
+    ],
+    "histnitrogen": [
+        {
+            "type": "line",
+            "label": "HistFAO",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "tension": 0.1
+        }
+    ],
+    "histprotectedareas": [
+        {
+            "type": "line",
+            "label": "Historical values for PA and OECM (WDPA)",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "tension": 0.1
+            
+        }
+    ],
+    "histwaterirrigation": [
+        {
+            "type": "line",
+            "label": "Historical values for water use (Aquastat)",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "tension": 0.1
+        }
+    ],
+    "histmethanecropslivestock": [
+        {
+            "type": "line",
+            "label": "Total historical values (FAOSTAT)",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "tension": 0.1
+        }
+    ],
+    "histghgcropslivestock": [
+        {
+            "type": "line",
+            "label": "HistFAO",
+            "fill": false,
+            "backgroundColor": "Fuchsia",
+            "borderColor": "Fuchsia",
+            "pointBorderColor": "Fuchsia",
+            "pointBackgroundColor": "Fuchsia",
+            "pointHoverBackgroundColor": "Fuchsia",
+            "pointHoverBorderColor": "Fuchsia",
+            "tension": 0.1
+        }
+    ],
+    "histkcal": [
+        {
+            "type": "line",
+            "label": "Hisotrical values (FAOSTAT not accounting for food loss and waste)",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "histphosphorous": [
+        {
+            "type": "line",
+            "label": "HistFAO",
+            "fill": false,
+            "borderColor": "Fuchsia",
+            "backgroundColor": "Fuchsia",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "ghg_agri_targets": [
+        {
+            "type": "scatter",
+            "label": "Target",
+            "fill": true,
+            "backgroundColor": "red",
+            "radius": 6,
+            "yAxisID": "y-axis-1",
+            "pointStyle": "circle"
+        }
+    ],
+    "deforestation": [
+        {
+            "type": "bar",
+            "label": "Forest loss",
+            "fill": false,
+            "borderColor": "#EC932F",
+            "backgroundColor": "#4dd0e1",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Other_LUC": [
+        {
+            "type": "bar",
+            "label": "Other LUC",
+            "fill": false,
+            "borderColor": "#EC932F",
+            "backgroundColor": "#ff8f00",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "sequestration": [
+        {
+            "type": "bar",
+            "label": "Sequestration",
+            "fill": false,
+            "borderColor": "#EC932F",
+            "backgroundColor": "#64b5f6",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "peat": [
+        {
+            "type": "bar",
+            "label": "Peat",
+            "fill": false,
+            "borderColor": "#EC932F",
+            "backgroundColor": "#ffd54f",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "total_GHG_land": [
+        {
+            "type": "line",
+            "label": "Total GHG land",
+            "fill": false,
+            "backgroundColor": "#f4511e",
+            "borderColor": "#f4511e",
+            "borderWidth": 1,
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "total_GHG_land_bar": [
+        {
+            "type": "bar",
+            "label": "Total GHG land",
+            "fill": false,
+            "backgroundColor": "#607d8b",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "FAO_GHG_LU": [
+        {
+            "type": "scatter",
+            "label": "FAO LU global",
+            "fill": true,
+            "borderColor": "transparent",
+            "backgroundColor": "black",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "GHG_LU_target": [
+        {
+            "type": "scatter",
+            "label": "Target GHG LU",
+            "fill": true,
+            "borderColor": "transparent",
+            "backgroundColor": "red",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "NetForestChange": [
+        {
+            "label": [
+                "Net forest change"
+            ],
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "#307a33",
+            "borderColor": "transparent",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "netforestchange": [
+        {
+            "label": [
+                "Net forest change"
+            ],
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "#307a33",
+            "borderColor": "#307a33",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "NetForestChangeBar": [
+        {
+            "label": "Net forest change",
+            "type": "bar",
+            "fill": false,
+            "hoverBackgroundColor": "Green",
+            "backgroundColor": "#388e3c",
+            "borderColor": "#71B37C",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "GFW_deforestation_global": [
+        {
+            "label": "GWF deforestation",
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "Black",
+            "borderColor": "transparent",
+            "radius": 6,
+            "pointBorderColor": "Black",
+            "pointBackgroundColor": "Black",
+            "pointHoverBackgroundColor": "Black",
+            "pointHoverBorderColor": "Black",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "Forest_target": [
+        {
+            "label": "Target",
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "red",
+            "borderColor": "transparent",
+            "radius": 6,
+            "pointBorderColor": "Red",
+            "pointBackgroundColor": "Red",
+            "pointHoverBackgroundColor": "Red",
+            "pointHoverBorderColor": "Red",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "ForestLoss": [
+        {
+            "label": "Forest Loss",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(255,213,79, 1)",
+            "borderColor": "#a98600"
+        }
+    ],
+    "notagroecologicalpractices": [
+        {
+            "label": "Cropland under conventional practices",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(255,213,79, 1)",
+            "borderColor": "#a98600"
+        }
+    ],
+    "agroecologicalpractices": [
+        {
+            "label": "Cropland under agroecological practices",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(129,199,132, 1)",
+            "borderColor": "rgba(129,199,132, 1)"
+        }
+    ],
+    "lnppmatureforest": [
+        {
+            "label": "LNPP in mature forests",
+            "type": "bar",
+            "borderColor": "#e71d36",
+            "backgroundColor": "#FAC05E"
+        }
+    ],
+    "lnppmatureotherland": [
+        {
+            "label": "LNPP in mature other natural lands",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#F79D84",
+            "borderColor": "#F79D84"
+        }
+    ],
+    "lnppnewforest": [
+        {
+            "label": "LNPP in new forests",
+            "type": "bar",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#3FA7D6"
+        }
+    ],
+    "lnppnewotherland": [
+        {
+            "label": "LNPP in new other natural lands",
+            "type": "bar",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#EE6352"
+        }
+    ],
+    "forestloss": [
+        {
+            "label": "Forest Loss",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(255,213,79, 1)",
+            "borderColor": "#a98600"
+        }
+    ],
+
+    "Aforestation": [
+        {
+            "label": "Forest gain",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(129,199,132, 1)",
+            "borderColor": "rgba(129,199,132, 1)"
+        }
+    ],
+    "aforestation": [
+        {
+            "label": "Aforestation",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "rgba(129,199,132, 1)",
+            "borderColor": "rgba(129,199,132, 1)"
+        }
+    ],
+    "protected_land": [
+        {
+            "label": "Protected land",
+            "type": "bar",
+            "fill": true,
+            "pointStyle": "rect",
+            "backgroundColor": "#7cb342",
+            "borderColor": "#81c784"
+        }
+    ],
+    "protected_land_target": [
+        {
+            "label": "Target",
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "red",
+            "borderColor": "transparent",
+            "radius": 6
+        }
+    ],
+    "biodiversity_land": [
+        {
+            "label": "Biodiversity land",
+            "type": "bar",
+            "fill": true,
+            "backgroundColor": "#cddc39",
+            "borderColor": "#81c784"
+        }
+    ],
+    "biodiversity_target": [
+        {
+            "label": "Target",
+            "type": "scatter",
+            "fill": true,
+            "backgroundColor": "red",
+            "borderColor": "transparent",
+            "radius": 6,
+            "hoverBackgroundColor": "Red",
+            "hoverBorderColor": "Red"
+        }
+    ],
+    "water_target": [
+        {
+            "type": "scatter",
+            "fill": true,
+            "label": "Target",
+            "backgroundColor": "red",
+            "pointBorderColor": "red",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "BlueWater": [
+        {
+            "label": "Blue water",
+            "type": "bar",
+            "fill": true,
+            "backgroundColor": "blue",
+            "borderColor": "transparent",
+            "pointStyle": "circle"
+        }
+    ],
+    "AfterNetForestChange": [
+        {
+            "label": "Net forest after trade adjusment",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#43A047",
+            "borderColor": "#43A047"
+        }
+    ],
+    "BeforeNetForestChange": [
+        {
+            "type": "scatter",
+            "label": "Net Forest before trade adjusment",
+            "borderColor": "#F06292",
+            "backgroundColor": "#F06292",
+            "pointBorderColor": "#F06292",
+            "pointBackgroundColor": "#F06292",
+            "pointHoverBackgroundColor": "#F06292",
+            "radius": 6,
+            "pointHoverBorderColor": "#F06292",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "BeforeBiodiversity": [
+        {
+            "type": "scatter",
+            "label": "Biodiversity before trade adjusment",
+            "fill": true,
+            "borderColor": "#F06292",
+            "backgroundColor": "#F06292",
+            "pointBorderColor": "#F06292",
+            "pointBackgroundColor": "#F06292",
+            "pointHoverBackgroundColor": "#F06292",
+            "radius": 6,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "AfterBiodiversity": [
+        {
+            "label": "Biodiversity after trade adjusment",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#CDDC39",
+            "borderColor": "#CDDC39"
+        }
+    ],
+    "agricultureBefore": [
+        {
+            "type": "scatter",
+            "label": "GHG before trade adjusment",
+            "borderColor": "#F06292",
+            "borderWidth": "1",
+            "backgroundColor": "#F06292",
+            "pointBorderColor": "#F06292",
+            "pointBackgroundColor": "#F06292",
+            "pointHoverBackgroundColor": "#F06292",
+            "radius": 6,
+            "pointHoverBorderColor": "#F06292",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "agricultureAfter": [
+        {
+            "label": "GHG after trade adjusment",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#64B5F6",
+            "borderWidth": "1",
+            "borderColor": "#64B5F6"
+        }
+    ],
+    "landBefore": [
+        {
+            "type": "scatter",
+            "label": "GHG before trade adjusment",
+            "borderColor": "#F06292",
+            "borderWidth": "1",
+            "backgroundColor": "#F06292",
+            "pointBorderColor": "#F06292",
+            "pointBackgroundColor": "#F06292",
+            "pointHoverBackgroundColor": "#F06292",
+            "radius": 7,
+            "pointHoverBorderColor": "#F06292",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "landAfter": [
+        {
+            "label": "GHG after trade adjusment",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#64B5F6",
+            "borderColor": "#64B5F6",
+            "borderWidth": "1"
+        }
+    ],
+    "AfterMDER": [
+        {
+            "type": "line",
+            "label": "MDER_after",
+            "fill": false,
+            "backgroundColor": "#FFBD20",
+            "borderColor": "#FFBD20",
+            "yAxisID": "y-axis-1",
+            "radius": 7
+        }
+    ],
+    "BeforeMDER": [
+        {
+            "type": "line",
+            "label": "MDER_before",
+            "fill": false,
+            "backgroundColor": "#F06292",
+            "borderColor": "#F06292",
+            "radius": 7,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "BeforeKcalFeas": [
+        {
+            "type": "scatter",
+            "label": "Kcal_feas_before",
+            "borderColor": "#F06292",
+            "borderWidth": "1",
+            "backgroundColor": "#F06292",
+            "pointBorderColor": "#F06292",
+            "pointBackgroundColor": "#F06292",
+            "radius": 7,
+            "fill": true,
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "AfterKcalFeas": [
+        {
+            "label": "Kcal_feas_after",
+            "type": "bar",
+            "fill": true,
+            "backgroundColor": "#FF8F00",
+            "borderColor": "#FF8F00",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "exports_imports": [
+        {
+            "type": "bar",
+            "label": "exports-imports (tons)",
+            "borderColor": "#4285f4",
+            "backgroundColor": "#4285f4",
+            "yAxisID": "y-axis-1"
+        }
+    ],
+    "gdp": [
+        {
+            "type": "bar",
+            "label": "GDP",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#E84D2C",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "population": [
+        {
+            "type": "bar",
+            "label": "Population",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#9463CD",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "kcal_hist": [
+        {
+            "type": "bar",
+            "label": "kcal_hist",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#78CD63",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "kcal_targ": [
+        {
+            "type": "bar",
+            "label": "kcal_targ",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "kcal_feas": [
+        {
+            "type": "bar",
+            "label": "kcal_feas",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "fat_feas": [
+        {
+            "type": "bar",
+            "label": "fat_feas",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "prot_feas": [
+        {
+            "type": "bar",
+            "label": "prot_feas",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "kcal_mder": [
+        {
+            "type": "bar",
+            "label": "kcal_mder",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histbiodivlnd": [
+        {
+            "type": "bar",
+            "label": "histbiodivlnd",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcbiodivlnd": [
+        {
+            "type": "bar",
+            "label": "calcbiodivlnd",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "biodivtarget": [
+        {
+            "type": "bar",
+            "label": "biodivtarget",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "protectedareasforest": [
+        {
+            "type": "bar",
+            "label": "Forests in PA areas",
+            "borderColor": "#307a33",
+            "backgroundColor": "#307a33",
+            "pointBorderColor": "#000000",
+            "pointBackgroundColor": "#000000",
+            "pointHoverBackgroundColor": "#000000",
+            "pointHoverBorderColor": "#000000",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "protectedareasothernat": [
+        {
+            "type": "bar",
+            "label": "Other natural lands in PA areas",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#81c784",
+            "pointBorderColor": "#EC932F",
+            "pointBackgroundColor": "#EC932F",
+            "pointHoverBackgroundColor": "#EC932F",
+            "pointHoverBorderColor": "#EC932F",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "protectedareasother": [
+        {
+            "type": "bar",
+            "label": "Other lands (cropland, pastures) in PA areas",
+            "borderColor": "#EC932F",
+            "backgroundColor": "#ffd54f",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "cropbiodiv": [
+        {
+            "type": "bar",
+            "label": "cropbiodiv",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histcropland": [
+        {
+            "type": "bar",
+            "label": "histcropland",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histharvarea": [
+        {
+            "type": "bar",
+            "label": "histharvarea",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histpasture": [
+        {
+            "type": "bar",
+            "label": "histpasture",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histurban": [
+        {
+            "type": "bar",
+            "label": "histurban",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histforest": [
+        {
+            "type": "bar",
+            "label": "histforest",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histotherland": [
+        {
+            "type": "bar",
+            "label": "histotherland",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calccropland": [
+        {
+            "type": "bar",
+            "label": "Cropland",
+            "borderColor": "#ff006e",
+            "backgroundColor": "#81c784",
+            "pointBorderColor": "#ff006e",
+            "pointBackgroundColor": "#ff006e",
+            "pointHoverBackgroundColor": "#ff006e",
+            "pointHoverBorderColor": "#ff006e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcpasture": [
+        {
+            "type": "bar",
+            "label": "Pasture",
+            "borderColor": "#36a2eb",
+            "backgroundColor": "#307a33",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcforest": [
+        {
+            "type": "bar",
+            "label": "Mature Forests",
+            "borderColor": "#e71d36",
+            "backgroundColor": "#ffd54f",
+            "pointBorderColor": "#e71d36",
+            "pointBackgroundColor": "#e71d36",
+            "pointHoverBackgroundColor": "#e71d36",
+            "pointHoverBorderColor": "#e71d36",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcnewforest": [
+        {
+            "type": "bar",
+            "label": "New Forests",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#97DB4F",
+            "pointBorderColor": "#4ecdc4",
+            "pointBackgroundColor": "#4ecdc4",
+            "pointHoverBackgroundColor": "#4ecdc4",
+            "pointHoverBorderColor": "#4ecdc4",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "oecmareas": [
+        {
+            "type": "bar",
+            "label": "Other Effectice Conservation Measures (all land cover classes)",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#97DB4F",
+            "pointBorderColor": "#4ecdc4",
+            "pointBackgroundColor": "#4ecdc4",
+            "pointHoverBackgroundColor": "#4ecdc4",
+            "pointHoverBorderColor": "#4ecdc4",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcotherland": [
+        {
+            "type": "bar",
+            "label": "Other Land",
+            "borderColor": "#4ecdc4",
+            "backgroundColor": "#e64a19",
+            "pointBorderColor": "#4ecdc4",
+            "pointBackgroundColor": "#4ecdc4",
+            "pointHoverBackgroundColor": "#4ecdc4",
+            "pointHoverBorderColor": "#4ecdc4",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcurban": [
+        {
+            "type": "bar",
+            "label": "Urban",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "totalland": [
+        {
+            "type": "bar",
+            "label": "totalland",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "forestchange": [
+        {
+            "type": "bar",
+            "label": "forestchange",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "newforestchange": [
+        {
+            "type": "bar",
+            "label": "newforestchange",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+
+
+
+    "histcropallco2e": [
+        {
+            "type": "bar",
+            "label": "histcropallco2e",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histcropco2": [
+        {
+            "type": "bar",
+            "label": "histcropco2",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histcropn2o": [
+        {
+            "type": "bar",
+            "label": "histcropn2o",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histcropch4": [
+        {
+            "type": "bar",
+            "label": "histcropch4",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calccropallco2e": [
+        {
+            "type": "bar",
+            "label": "calccropallco2e",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calccropn2o": [
+        {
+            "type": "bar",
+            "label": "calccropn2o",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calccropch4": [
+        {
+            "type": "bar",
+            "label": "CH4 from crops",
+            "borderColor": "#3f48cc",
+            "backgroundColor": "#3f48cc",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    
+    "calclivech4": [
+        {
+            "type": "bar",
+            "label": "CH4 from livestock",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+
+    "calccropco2": [
+        {
+            "type": "bar",
+            "label": "CO2 from on-farm energy use",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histliveallco2e": [
+        {
+            "type": "bar",
+            "label": "histliveallco2e",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histliven2o": [
+        {
+            "type": "bar",
+            "label": "histliven2o",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histlivech4": [
+        {
+            "type": "bar",
+            "label": "histlivech4",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcliveallco2e": [
+        {
+            "type": "bar",
+            "label": "calcliveallco2e",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcliven2o": [
+        {
+            "type": "bar",
+            "label": "calcliven2o",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcallagrico2e": [
+        {
+            "type": "bar",
+            "label": "calcallagrico2e",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcdeforco2": [
+        {
+            "type": "bar",
+            "label": "calcdeforco2",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcotherlucco2": [
+        {
+            "type": "bar",
+            "label": "calcotherlucco2",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcsequestco2": [
+        {
+            "type": "bar",
+            "label": "calcsequestco2",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcpeatco2": [
+        {
+            "type": "bar",
+            "label": "calcpeatco2",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcalllandco2e": [
+        {
+            "type": "bar",
+            "label": "CO2 from LUC",
+            "borderColor": "#028090",
+            "backgroundColor": "#028090",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "ghgbiofuels": [
+        {
+            "type": "bar",
+            "label": "ghgbiofuels",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histwfgreen": [
+        {
+            "type": "bar",
+            "label": "histwfgreen",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histwfblue": [
+        {
+            "type": "bar",
+            "label": "histwfblue",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "histwfgrey": [
+        {
+            "type": "bar",
+            "label": "histwfgrey",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcwfgreen": [
+        {
+            "type": "bar",
+            "label": "calcwfgreen",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcwfblue": [
+        {
+            "type": "bar",
+            "label": "Water use",
+            "borderColor": "#416788",
+            "backgroundColor": "#416788",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcwfgrey": [
+        {
+            "type": "bar",
+            "label": "calcwfgrey",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcsequestaband": [
+        {
+            "type": "bar",
+            "label": "calcsequestaband",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "calcsequestaffor": [
+        {
+            "type": "bar",
+            "label": "calcsequestaffor",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "GHG_BIOFUEL": [
+        {
+            "type": "bar",
+            "label": "GHG_BIOFUEL",
+            "borderColor": "#ff8f00",
+            "backgroundColor": "#ff8f00",
+            "pointBorderColor": "#36a2eb",
+            "pointBackgroundColor": "#36a2eb",
+            "pointHoverBackgroundColor": "#36a2eb",
+            "pointHoverBorderColor": "#36a2eb",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+
+    "ghg_target_data": [
+        {
+            "type": "scatter",
+            "label": "FABLE Target",
+            "fill": false,
+            "backgroundColor": "red",
+            "borderColor": "red",
+            "yAxisID": "y-axis-1",
+            "radius": 5,
+            "borderWidth": 1,
+            "usePointStyle": true,
+            "pointStyle": "circle"
+        }
+    ],
+    "crops": [
+        {
+            "type": "bar",
+            "label": "Crops",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "livestock": [
+        {
+            "type": "bar",
+            "label": "Livestock",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#C44536",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],    
+    "SumDieselCost": [
+        {
+            "type": "bar",
+            "label": "Diesel",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#00acc1",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "SumFertilizerCost": [
+        {
+            "type": "bar",
+            "label": "Fertilizer",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#C44536",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "SumLabourCost": [
+        {
+            "type": "bar",
+            "label": "Labour",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#694873",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+    "SumMachineryRunningCost": [
+        {
+            "type": "bar",
+            "label": "Machinery",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#283D3B",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],
+
+    "SumPesticideCost": [
+        {
+            "type": "bar",
+            "label": "Pesticide",
+            "borderColor": "#9a031e",
+            "backgroundColor": "#FFA62B",
+            "pointBorderColor": "#9a031e",
+            "pointBackgroundColor": "#9a031e",
+            "pointHoverBackgroundColor": "#9a031e",
+            "pointHoverBorderColor": "#9a031e",
+            "yAxisID": "y-axis-1",
+            "pointStyle": "rect"
+        }
+    ],    
+    "sumcalcn_agsoils": [
+        {
+            "label": "N from manure applied to soils",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#0EAD69",
+            "borderColor":  "#9a031e"
+        }   
+    ],
+    "sumcalcn_leftpasture": [
+        {
+            "label": "N from manure left on pasture",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#2E4057",
+            "borderColor":  "#9a031e"
+        }
+    ], 
+    "sumcalcn_synth": [
+        {
+            "label": "N from synthetic fertilizer",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#3BCEAC",
+            "borderColor":  "#9a031e"
+        }
+    ],
+    "sumhistnsynth": [
+        {
+            "label": "Historical values for syn thetic N (FAOSTAT)",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#048BA8",
+            "borderColor":  "#9a031e"
+        }
+    ], 
+    "sumhistp": [
+        {
+            "label": "Historical values for P (FAOSTAT)",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#FFBC42",
+            "borderColor":  "#9a031e"
+        }
+    ],
+    "sumtotalp": [
+        {
+            "label": "P values",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#8F2D56",
+            "borderColor":  "#9a031e"
+        }
+    ],
+    "rice": [
+        {
+            "label": "Rice",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#F2442E",
+            "borderColor":  "#F2442E"
+        }
+    ],
+    "sugar": [
+        {
+            "label": "Sugar",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#8F2D56",
+            "borderColor":  "#8F2D56"
+        }
+    ],
+    "roots": [
+        {
+            "label": "Roots",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#F2662E",
+            "borderColor":  "#F2662E"
+        }
+    ],
+    "wheat": [
+        {
+            "label": "Wheat",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#F5325B",
+            "borderColor":  "#F5325B"
+        }
+    ],
+    "legumes": [
+        {
+            "label": "Legumes",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#F2A82E",
+            "borderColor":  "#F2A82E"
+        }
+    ],
+    "oil_veg": [
+        {
+            "label": "Vegetable and Oils",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#2EF2DE",
+            "borderColor":  "#2EF2DE"
+        }
+    ],
+    "othr_grains": [
+        {
+            "label": "Other grains",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#2E89F2",
+            "borderColor":  "#2E89F2"
+        }
+    ],
+    "soybeans": [
+        {
+            "label": "Soybeans",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#2EC7F2",
+            "borderColor":  "#2EC7F2"
+        }
+    ],
+    "nuts_seeds": [
+        {
+            "label": "Nuts and Seeds",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#31F59E",
+            "borderColor":  "#31F59E"
+        }
+    ],
+    "maize": [
+        {
+            "label": "Maize",
+            "type": "bar",
+            "fill": false,
+            "backgroundColor": "#2E4CF5",
+            "borderColor":  "#2E4CF5"
+        }
+    ]
+}

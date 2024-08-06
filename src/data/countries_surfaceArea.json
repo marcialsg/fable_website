@@ -1,0 +1,950 @@
+{
+    "ABW": {
+        "country": "Aruba",
+        "area": 193
+    },
+    "AFG": {
+        "country": "Afghanistan",
+        "area": 652090
+    },
+    "AGO": {
+        "country": "Angola",
+        "area": 1246700
+    },
+    "AIA": {
+        "country": "Anguilla",
+        "area": 96
+    },
+    "ALB": {
+        "country": "Albania",
+        "area": 28748
+    },
+    "AND": {
+        "country": "Andorra",
+        "area": 468
+    },
+    "ARE": {
+        "country": "United Arab Emirates",
+        "area": 83600
+    },
+    "ARG": {
+        "country": "Argentina",
+        "area": 2780400
+    },
+    "ARM": {
+        "country": "Armenia",
+        "area": 29800
+    },
+    "ASM": {
+        "country": "Samoa",
+        "area": 2831
+    },
+    "ATA": {
+        "country": "Antarctica",
+        "area": 13120000
+    },
+    "ATG": {
+        "country": "Antigua and Barbuda",
+        "area": 442
+    },
+    "AUS": {
+        "country": "Australia",
+        "area": 7741220
+    },
+    "AUT": {
+        "country": "Austria",
+        "area": 83859
+    },
+    "AZE": {
+        "country": "Azerbaijan",
+        "area": 86600
+    },
+    "BDI": {
+        "country": "Burundi",
+        "area": 27834
+    },
+    "BEL": {
+        "country": "Belgium",
+        "area": 30518
+    },
+    "BEN": {
+        "country": "Benin",
+        "area": 112622
+    },
+    "BFA": {
+        "country": "Burkina Faso",
+        "area": 274000
+    },
+    "BGD": {
+        "country": "Bangladesh",
+        "area": 143998
+    },
+    "BGR": {
+        "country": "Bulgaria",
+        "area": 110994
+    },
+    "BHR": {
+        "country": "Bahrain",
+        "area": 694
+    },
+    "BHS": {
+        "country": "Bahamas",
+        "area": 13878
+    },
+    "BIH": {
+        "country": "Bosnia and Herzegovina",
+        "area": 51197
+    },
+    "BLR": {
+        "country": "Belarus",
+        "area": 207600
+    },
+    "BLZ": {
+        "country": "Belize",
+        "area": 22696
+    },
+    "BMU": {
+        "country": "Bermuda",
+        "area": 53
+    },
+    "BOL": {
+        "country": "Bolivia",
+        "area": 1098581
+    },
+    "BRA": {
+        "country": "Brazil",
+        "area": 8547403
+    },
+    "BRB": {
+        "country": "Barbados",
+        "area": 430
+    },
+    "BRN": {
+        "country": "Brunei",
+        "area": 5765
+    },
+    "BTN": {
+        "country": "Bhutan",
+        "area": 47000
+    },
+    "BWA": {
+        "country": "Botswana",
+        "area": 581730
+    },
+    "CAF": {
+        "country": "Central African Republic",
+        "area": 622984
+    },
+    "CAN": {
+        "country": "Canada",
+        "area": 9970610
+    },
+    "CHE": {
+        "country": "Switzerland",
+        "area": 41284
+    },
+    "CHL": {
+        "country": "Chile",
+        "area": 756626
+    },
+    "CHN": {
+        "country": "China",
+        "area": 9572900
+    },
+    "CIV": {
+        "country": "Ivory Coast",
+        "area": 322463
+    },
+    "CMR": {
+        "country": "Cameroon",
+        "area": 475442
+    },
+    "COD": {
+        "country": "Congo",
+        "area": 342000
+    },
+    "COK": {
+        "country": "Cook Islands",
+        "area": 236
+    },
+    "COL": {
+        "country": "Colombia",
+        "area": 1138914
+    },
+    "COM": {
+        "country": "Comoros",
+        "area": 1862
+    },
+    "CPV": {
+        "country": "Cape Verde",
+        "area": 4033
+    },
+    "CRI": {
+        "country": "Costa Rica",
+        "area": 51100
+    },
+    "CUB": {
+        "country": "Cuba",
+        "area": 110861
+    },
+    "CYM": {
+        "country": "Cayman Islands",
+        "area": 264
+    },
+    "-99": {
+        "country": "Cyprus",
+        "area": 9251
+    },
+    "CZE": {
+        "country": "Czech Republic",
+        "area": 78866
+    },
+    "DEU": {
+        "country": "Germany",
+        "area": 357022
+    },
+    "DJI": {
+        "country": "Djibouti",
+        "area": 23200
+    },
+    "DMA": {
+        "country": "Dominica",
+        "area": 751
+    },
+    "DNK": {
+        "country": "Denmark",
+        "area": 43094
+    },
+    "DOM": {
+        "country": "Dominican Republic",
+        "area": 48511
+    },
+    "DZA": {
+        "country": "Algeria",
+        "area": 2381741
+    },
+    "ECU": {
+        "country": "Ecuador",
+        "area": 283561
+    },
+    "EGY": {
+        "country": "Egypt",
+        "area": 1001449
+    },
+    "ERI": {
+        "country": "Eritrea",
+        "area": 117600
+    },
+    "ESH": {
+        "country": "Western Sahara",
+        "area": 266000
+    },
+    "ESP": {
+        "country": "Spain",
+        "area": 505992
+    },
+    "EST": {
+        "country": "Estonia",
+        "area": 45227
+    },
+    "ETH": {
+        "country": "Ethiopia",
+        "area": 1104300
+    },
+    "FIN": {
+        "country": "Finland",
+        "area": 338145
+    },
+    "FLK": {
+        "country": "Falkland Islands",
+        "area": 12173
+    },
+    "FRA": {
+        "country": "France",
+        "area": 551500
+    },
+    "FRO": {
+        "country": "Faroe Islands",
+        "area": 1399
+    },
+    "FSM": {
+        "country": "Federated States of Micronesia",
+        "area": 702
+    },
+    "GAB": {
+        "country": "Gabon",
+        "area": 267668
+    },
+    "GBR": {
+        "country": "United Kingdom",
+        "area": 242900
+    },
+    "GEO": {
+        "country": "Georgia",
+        "area": 69700
+    },
+    "GHA": {
+        "country": "Ghana",
+        "area": 238533
+    },
+    "GIB": {
+        "country": "Gibraltar",
+        "area": 6
+    },
+    "GIN": {
+        "country": "Guinea",
+        "area": 245857
+    },
+    "GMB": {
+        "country": "Gambia",
+        "area": 11295
+    },
+    "GNQ": {
+        "country": "Equatorial Guinea",
+        "area": 28051
+    },
+    "GRC": {
+        "country": "Greece",
+        "area": 131626
+    },
+    "GRD": {
+        "country": "Grenada",
+        "area": 344
+    },
+    "GRL": {
+        "country": "Greenland",
+        "area": 2166090
+    },
+    "GTM": {
+        "country": "Guatemala",
+        "area": 108889
+    },
+    "GUM": {
+        "country": "Guam",
+        "area": 549
+    },
+    "GUY": {
+        "country": "Guyana",
+        "area": 214969
+    },
+    "HKG": {
+        "country": "Hong Kong",
+        "area": 1075
+    },
+    "HMD": {
+        "country": "Heard Island and McDonald Islands",
+        "area": 359
+    },
+    "HND": {
+        "country": "Honduras",
+        "area": 112088
+    },
+    "HRV": {
+        "country": "Croatia",
+        "area": 56538
+    },
+    "HTI": {
+        "country": "Haiti",
+        "area": 27750
+    },
+    "HUN": {
+        "country": "Hungary",
+        "area": 93030
+    },
+    "IDN": {
+        "country": "Indonesia",
+        "area": 1904569
+    },
+    "IND": {
+        "country": "India",
+        "area": 3287263
+    },
+    "IOT": {
+        "country": "British Indian Ocean Territory",
+        "area": 78
+    },
+    "IRL": {
+        "country": "Ireland",
+        "area": 70273
+    },
+    "IRN": {
+        "country": "Iran",
+        "area": 1648195
+    },
+    "IRQ": {
+        "country": "Iraq",
+        "area": 438317
+    },
+    "ISL": {
+        "country": "Iceland",
+        "area": 103000
+    },
+    "ISR": {
+        "country": "Israel",
+        "area": 21056
+    },
+    "ITA": {
+        "country": "Italy",
+        "area": 301316
+    },
+    "JAM": {
+        "country": "Jamaica",
+        "area": 10990
+    },
+    "JOR": {
+        "country": "Jordan",
+        "area": 88946
+    },
+    "JPN": {
+        "country": "Japan",
+        "area": 377829
+    },
+    "KAZ": {
+        "country": "Kazakhstan",
+        "area": 2724900
+    },
+    "KEN": {
+        "country": "Kenya",
+        "area": 580367
+    },
+    "KGZ": {
+        "country": "Kyrgyzstan",
+        "area": 199900
+    },
+    "KHM": {
+        "country": "Cambodia",
+        "area": 181035
+    },
+    "KIR": {
+        "country": "Kiribati",
+        "area": 726
+    },
+    "KNA": {
+        "country": "Saint Kitts and Nevis",
+        "area": 261
+    },
+    "KOR": {
+        "country": "South Korea",
+        "area": 99434
+    },
+    "KWT": {
+        "country": "Kuwait",
+        "area": 17818
+    },
+    "LAO": {
+        "country": "Laos",
+        "area": 236800
+    },
+    "LBN": {
+        "country": "Lebanon",
+        "area": 10400
+    },
+    "LBR": {
+        "country": "Liberia",
+        "area": 111369
+    },
+    "LCA": {
+        "country": "Saint Lucia",
+        "area": 622
+    },
+    "LIE": {
+        "country": "Liechtenstein",
+        "area": 160
+    },
+    "LKA": {
+        "country": "Sri Lanka",
+        "area": 65610
+    },
+    "LSO": {
+        "country": "Lesotho",
+        "area": 30355
+    },
+    "LTU": {
+        "country": "Lithuania",
+        "area": 65301
+    },
+    "LUX": {
+        "country": "Luxembourg",
+        "area": 2586
+    },
+    "LVA": {
+        "country": "Latvia",
+        "area": 64589
+    },
+    "MAC": {
+        "country": "Macao",
+        "area": 18
+    },
+    "MAR": {
+        "country": "Morocco",
+        "area": 446550
+    },
+    "MCO": {
+        "country": "Monaco",
+        "area": 1.5
+    },
+    "MDA": {
+        "country": "Moldova",
+        "area": 33851
+    },
+    "MDG": {
+        "country": "Madagascar",
+        "area": 587041
+    },
+    "MDV": {
+        "country": "Maldives",
+        "area": 298
+    },
+    "MEX": {
+        "country": "Mexico",
+        "area": 1958201
+    },
+    "MHL": {
+        "country": "Marshall Islands",
+        "area": 181
+    },
+    "MLI": {
+        "country": "Mali",
+        "area": 1240192
+    },
+    "MLT": {
+        "country": "Malta",
+        "area": 316
+    },
+    "MMR": {
+        "country": "Myanmar",
+        "area": 676578
+    },
+    "MNG": {
+        "country": "Mongolia",
+        "area": 1566500
+    },
+    "MNP": {
+        "country": "Northern Mariana Islands",
+        "area": 464
+    },
+    "MOZ": {
+        "country": "Mozambique",
+        "area": 801590
+    },
+    "MRT": {
+        "country": "Mauritania",
+        "area": 1025520
+    },
+    "MSR": {
+        "country": "Montserrat",
+        "area": 102
+    },
+    "MUS": {
+        "country": "Mauritius",
+        "area": 2040
+    },
+    "MWI": {
+        "country": "Malawi",
+        "area": 118484
+    },
+    "MYS": {
+        "country": "Malaysia",
+        "area": 329758
+    },
+    "NAM": {
+        "country": "Namibia",
+        "area": 824292
+    },
+    "NCL": {
+        "country": "New Caledonia",
+        "area": 18575
+    },
+    "NER": {
+        "country": "Niger",
+        "area": 1267000
+    },
+    "NFK": {
+        "country": "Norfolk Island",
+        "area": 36
+    },
+    "NGA": {
+        "country": "Nigeria",
+        "area": 923768
+    },
+    "NIC": {
+        "country": "Nicaragua",
+        "area": 130000
+    },
+    "NIU": {
+        "country": "Niue",
+        "area": 260
+    },
+    "NLD": {
+        "country": "Netherlands",
+        "area": 41526
+    },
+    "NOR": {
+        "country": "Norway",
+        "area": 323877
+    },
+    "NPL": {
+        "country": "Nepal",
+        "area": 147181
+    },
+    "NRU": {
+        "country": "Nauru",
+        "area": 21
+    },
+    "NZL": {
+        "country": "New Zealand",
+        "area": 270534
+    },
+    "OMN": {
+        "country": "Oman",
+        "area": 309500
+    },
+    "PAK": {
+        "country": "Pakistan",
+        "area": 796095
+    },
+    "PAN": {
+        "country": "Panama",
+        "area": 75517
+    },
+    "PCN": {
+        "country": "Pitcairn",
+        "area": 49
+    },
+    "PER": {
+        "country": "Peru",
+        "area": 1285216
+    },
+    "PHL": {
+        "country": "Philippines",
+        "area": 300000
+    },
+    "PLW": {
+        "country": "Palau",
+        "area": 459
+    },
+    "PNG": {
+        "country": "Papua New Guinea",
+        "area": 462840
+    },
+    "POL": {
+        "country": "Poland",
+        "area": 323250
+    },
+    "PRI": {
+        "country": "Puerto Rico",
+        "area": 8875
+    },
+    "PRK": {
+        "country": "North Korea",
+        "area": 120538
+    },
+    "PRT": {
+        "country": "Portugal",
+        "area": 91982
+    },
+    "PRY": {
+        "country": "Paraguay",
+        "area": 406752
+    },
+    "PSE": {
+        "country": "Palestine",
+        "area": 6257
+    },
+    "PYF": {
+        "country": "French Polynesia",
+        "area": 4000
+    },
+    "QAT": {
+        "country": "Qatar",
+        "area": 11000
+    },
+    "ROU": {
+        "country": "Romania",
+        "area": 238391
+    },
+    "RWA": {
+        "country": "Rwanda",
+        "area": 26338
+    },
+    "SAU": {
+        "country": "Saudi Arabia",
+        "area": 2149690
+    },
+    "SDN": {
+        "country": "Sudan",
+        "area": 1886068
+    },
+    "SSD": {
+        "country": "South Sudan",
+        "area": 619745
+    },
+    "SEN": {
+        "country": "Senegal",
+        "area": 196722
+    },
+    "SRB": {
+        "country": "Serbia",
+        "area": 88361
+    },
+    "SGP": {
+        "country": "Singapore",
+        "area": 618
+    },
+    "SHN": {
+        "country": "Saint Helena",
+        "area": 314
+    },
+    "SLB": {
+        "country": "Solomon Islands",
+        "area": 28896
+    },
+    "SLE": {
+        "country": "Sierra Leone",
+        "area": 71740
+    },
+    "SLV": {
+        "country": "El Salvador",
+        "area": 21041
+    },
+    "SMR": {
+        "country": "San Marino",
+        "area": 61
+    },
+    "SOM": {
+        "country": "Somalia",
+        "area": 637657
+    },
+    "SPM": {
+        "country": "Saint Pierre and Miquelon",
+        "area": 242
+    },
+    "STP": {
+        "country": "Sao Tome and Principe",
+        "area": 964
+    },
+    "SUR": {
+        "country": "Suriname",
+        "area": 163265
+    },
+    "SVK": {
+        "country": "Slovakia",
+        "area": 49012
+    },
+    "SVN": {
+        "country": "Slovenia",
+        "area": 20256
+    },
+    "SWE": {
+        "country": "Sweden",
+        "area": 449964
+    },
+    "SWZ": {
+        "country": "Swaziland",
+        "area": 17364
+    },
+    "SYC": {
+        "country": "Seychelles",
+        "area": 455
+    },
+    "SYR": {
+        "country": "Syria",
+        "area": 185180
+    },
+    "TCA": {
+        "country": "Turks and Caicos Islands",
+        "area": 430
+    },
+    "TCD": {
+        "country": "Chad",
+        "area": 1284000
+    },
+    "TGO": {
+        "country": "Togo",
+        "area": 56785
+    },
+    "THA": {
+        "country": "Thailand",
+        "area": 513115
+    },
+    "TJK": {
+        "country": "Tajikistan",
+        "area": 143100
+    },
+    "TKM": {
+        "country": "Turkmenistan",
+        "area": 488100
+    },
+    "TLS": {
+        "country": "East Timor",
+        "area": 14874
+    },
+    "TON": {
+        "country": "Tonga",
+        "area": 650
+    },
+    "TTO": {
+        "country": "Trinidad and Tobago",
+        "area": 5130
+    },
+    "TUN": {
+        "country": "Tunisia",
+        "area": 163610
+    },
+    "TUR": {
+        "country": "Turkey",
+        "area": 774815
+    },
+    "TUV": {
+        "country": "Tuvalu",
+        "area": 26
+    },
+    "TWN": {
+        "country": "Taiwan",
+        "area": 36188
+    },
+    "TZA": {
+        "country": "Tanzania",
+        "area": 883749
+    },
+    "UGA": {
+        "country": "Uganda",
+        "area": 241038
+    },
+    "UKR": {
+        "country": "Ukraine",
+        "area": 603700
+    },
+    "USA": {
+        "country": "United States of America",
+        "area": 9363520
+    },
+    "URY": {
+        "country": "Uruguay",
+        "area": 175016
+    },
+    "UZB": {
+        "country": "Uzbekistan",
+        "area": 447400
+    },
+    "VCT": {
+        "country": "Saint Vincent and the Grenadines",
+        "area": 388
+    },
+    "VEN": {
+        "country": "Venezuela",
+        "area": 912050
+    },
+    "VGB": {
+        "country": "British Virgin Islands",
+        "area": 151
+    },
+    "VNM": {
+        "country": "Vietnam",
+        "area": 331689
+    },
+    "VUT": {
+        "country": "Vanuatu",
+        "area": 12189
+    },
+    "WLF": {
+        "country": "Wallis and Futuna",
+        "area": 200
+    },
+    "YEM": {
+        "country": "Yemen",
+        "area": 527968
+    },
+    "ZAF": {
+        "country": "South Africa",
+        "area": 1221037
+    },
+    "ZMB": {
+        "country": "Zambia",
+        "area": 752618
+    },
+    "ZWE": {
+        "country": "Zimbabwe",
+        "area": 390757
+    },
+    "ANT": {
+        "country": "Netherlands Antilles",
+        "area": 800
+    },
+    "ATF": {
+        "country": "French Southern territories",
+        "area": 7780
+    },
+    "BVT": {
+        "country": "Bouvet Island",
+        "area": 59
+    },
+    "CCK": {
+        "country": "Cocos (Keeling) Islands",
+        "area": 14
+    },
+    "CXR": {
+        "country": "Christmas Island",
+        "area": 135
+    },
+    "FJI": {
+        "country": "Fiji Islands",
+        "area": 18274
+    },
+    "GLP": {
+        "country": "Guadeloupe",
+        "area": 1705
+    },
+    "GNB": {
+        "country": "Guinea-Bissau",
+        "area": 36125
+    },
+    "GUF": {
+        "country": "French Guiana",
+        "area": 90000
+    },
+    "LBY": {
+        "country": "Libyan Arab Jamahiriya",
+        "area": 1759540
+    },
+    "MKD": {
+        "country": "North Macedonia",
+        "area": 25713
+    },
+    "Martinique": {
+        "country": "Martinique",
+        "area": 1102
+    },
+    "MTQ": {
+        "country": "Mayotte",
+        "area": 373
+    },
+    "REU": {
+        "country": "Reunion",
+        "area": 2510
+    },
+    "RUS": {
+        "country": "Russian Federation",
+        "area": 17075400
+    },
+    "SGS": {
+        "country": "South Georgia and the South Sandwich Islands",
+        "area": 3903
+    },
+    "SJM": {
+        "country": "Svalbard and Jan Mayen",
+        "area": 62422
+    },
+    "Tokelau": {
+        "country": "Tokelau",
+        "area": 12
+    },
+    "VAT": {
+        "country": "Holy See (Vatican City State)",
+        "area": 0.4
+    },
+    "VIR": {
+        "country": "U.S. Virgin Islands",
+        "area": 347
+    }
+}

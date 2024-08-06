@@ -1,0 +1,79 @@
+{
+    "2019" : {
+        "table" : "nettrade2019",
+        "scenathon_id" : {
+            "0" : {
+                "iteration" : {
+                    "50" : "before" ,
+                    "5" :  "after"
+                }
+            }
+        }
+    },
+
+    "2020" : {
+        "table" : "nettrade",
+        "scenathon_id" : {
+            "5" : {
+                "iteration" : {
+                    "1" : "before" ,
+                    "2" :  "after"
+                }
+            },
+
+            "6" : {
+                "iteration" : {
+                    "3" : "before",
+                    "4" : "after" 
+                    
+                }
+            }
+        }
+    },
+
+    "2021" : {
+        "table" : "nettrade2022",
+        "scenathon_id" : {
+            "7" : {
+                "iteration" : {
+                    "2" : "before" ,
+                    "1" :  "after"
+                }
+            },
+
+            "8" : {
+                "iteration" : {
+                    "4" : "before",
+                    "1" : "after" 
+                    
+                }
+            }
+        }
+    },
+
+    "2023" : {
+        "table" : "indicators2023_view",
+        "scenathon_id" : {
+            "16" : {
+                "iteration" : {
+                    "2" :  "before",
+                    "3" :  "after"
+                }
+            },
+            "17" : {
+                "iteration" : {
+                    "2" :  "before",
+                    "3" :  "after"
+                }
+            },
+            "18" : {
+                "iteration" : {
+                    "2" :  "before",
+                    "3" :  "after"
+                }
+            }
+        }
+    }
+
+  
+}   

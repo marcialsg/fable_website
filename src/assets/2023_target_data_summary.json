@@ -1,0 +1,83 @@
+{"target_data":
+    [
+
+        {
+            "targetDomain": "Summary",
+            "indicators": []
+        },
+
+        {
+            "targetDomain": "Food security",
+            "sdg": 1,
+            "indicators": [
+                "Average daily intake per capita in 2030",
+                "Evolution of daily calories intake per capita by country",
+                "Prevalence of undernourishment in 2030",
+                "Evolution of prevalence of undernourishment by country"
+            ]
+        },
+        
+        {
+            "targetDomain": "Biodiversity",
+            "sdg": 14,
+            "indicators": [
+                "Area of land where natural processes predominate",
+                "Total area land inside protected areas or other effective conservation measures",
+                "Loss of forest",
+                "Cropland area under agroecological practices"
+            ]
+        },
+        {
+            "targetDomain": "Water",
+            "sdg": 5,
+            "indicators": [
+                "Water use for irrigation",
+                "Water use for irrigation by Country"
+            ]
+        },
+        {
+            "targetDomain": "Greenhouse gas emissions",
+            "sdg": 12,
+            "indicators": [
+                "Annual CO2 emissions from land use change and on-farm energy use by source",
+                "Annual CO2 emissions from land use change and on-farm energy use by country",
+                "Cumulative CO2 emissions from AFOLU 2020-2050",
+                "Total agricultural emissions 2050",
+                "Annual GHG emissions from crops and livestock in Gt CO2e by country",
+                "Methane emissions from crops and livestock"
+            ]
+        },
+        
+        {
+            "targetDomain": "Nitrogen and Phosphorus",
+            "sdg": 17,
+            "indicators": [
+                "Nitrogen Application",
+                "Phosphorus Application"
+            ]
+        },
+        {
+            "targetDomain": "Socioeconomics",
+            "indicators": [
+                "Total costs of production",
+                "Employment in Agriculture: Eat Food Groups",
+                "Employment in Agriculture: Crops vs Livestock"
+            ]
+        },        
+        {
+            "targetDomain": "Trade Report",
+            "indicators": []
+        },
+        {
+            "targetDomain": "Climate Change Mitigation",
+            "sdg": 18,
+            "indicators": []
+        },
+        {
+            "targetDomain": "Freshwater, Nitrogen and Phosphorus",
+            "sdg": 19,
+            "indicators": []
+        }
+
+    ]
+}

@@ -1,0 +1,62 @@
+{
+  "links": [
+    {
+      "title": "DASHBOARD",
+      "dropdown": [
+        {
+          "title": "Scenathon 2019",
+          "url": "/tools/fable-pathways/"
+        },
+        {
+          "title": "Scenathon 2020",
+          "url": "/tools/fable-targets/"
+        },
+        {
+          "title": "Scenathon 2021",
+          "url": "/tools/fablecalculators/"
+        }
+      ]      
+    },
+    {
+      "title": "DATA",
+      "url": "/countries/"
+    },
+    {
+      "title": "METHODS",
+      "dropdown": [
+        {
+          "title": "Data Management",
+          "url": "/tools/fable-targets/"
+        },
+        {
+          "title": "Scenathon 2019",
+          "url": "/tools/fable-pathways/"
+        },       
+        {
+          "title": "Scenathon 2020",
+          "url": "/tools/fable-pathways/"
+        }, 
+        {
+          "title": "Scenathon 2021",
+          "url": "/tools/fable-pathways/"
+        }
+      ]
+    },
+    {
+      "title": "COLLABORATORS",
+      "url": "/countries/"
+    },
+    {
+      "title": "NEWS",
+      "url": "/publications/"
+    },
+    {
+      "title": "Scenathon User",
+      "url": "/join/"
+    },
+    {
+      "title": "ABOUT",
+      "url": "/join/"
+    }
+  ]
+}

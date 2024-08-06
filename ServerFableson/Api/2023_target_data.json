@@ -1,0 +1,68 @@
+{"target_data":
+    [
+        {
+            "targetDomain": "Summary",
+            "indicators": []
+        },
+
+        {
+            "targetDomain": "Food security",
+            "indicators": [
+                "Average daily intake per capita in 2030",
+                "Evolution of daily calories intake per capita by country",
+                "Prevalence of undernourishment in 2030",
+                "Evolution of prevalence of undernourishment by country"
+
+            ]
+        },
+        
+        {
+            "targetDomain": "Biodiversity",
+            "indicators": [
+                "Area of land where natural processes predominate",
+                "Total area land inside protected areas or other effective conservation measures",
+                "Loss of forest",
+                "Cropland area under agroecological practices"
+            ]
+        },
+        {
+            "targetDomain": "Greenhouse gas emissions",
+            "indicators": [
+                "Annual CO2 emissions from land use change and on-farm energy use by source",
+                "Annual CO2 emissions from land use change and on-farm energy use by country",
+                "Cumulative CO2 emissions from AFOLU 2020-2050",
+                "Total agricultural emissions 2050",
+                "Annual GHG emissions from crops and livestock in Gt CO2e by country",
+                "Methane emissions from crops and livestock"
+            ]
+        },
+        {
+            "targetDomain": "Water",
+            "indicators": [
+                "Water use for irrigation",
+                "Water use for irrigation by Country"
+            ]
+        },
+        {
+            "targetDomain": "Nitrogen and Phosphorus",
+            "indicators": [
+                "Nitrogen Application",
+                "Phosphorus Application"
+            ]
+        },
+        {
+            "targetDomain": "Socioeconomics",
+            "indicators": [
+                "Total costs of production",
+                "Employment in Agriculture: Eat Food Groups",
+                "Employment in Agriculture: Crops vs Livestock",
+                "Get Country Products"
+
+            ]
+        },       
+        {
+            "targetDomain": "Trade Report",
+            "indicators": []
+        }
+    ]
+}

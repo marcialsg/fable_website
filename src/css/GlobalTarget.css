@@ -1,0 +1,4 @@
+.centerX{
+    display: flex;
+    justify-content: center !important;
+}

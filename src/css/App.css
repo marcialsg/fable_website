@@ -1,0 +1,118 @@
+.fixed_navbar {
+  position: fixed !important;
+  padding: 0;
+}
+.decoration__none{
+  text-decoration: none!important;
+}
+.row__blank {
+  width: 100%;
+}
+.row__blank__height__0 {
+  height: 0;
+}
+.row__blank__height__52 {
+  height: 52px;
+}
+
+.decoration__none{
+  text-decoration: none;
+}
+.position__floating > .show{
+  top: 38px;
+  border-top-right-radius: 0 !important;
+  border-top-left-radius: 0;
+}
+.color-black{
+  color: #000 !important;
+}
+
+.padding-0 > .dropdown-toggle{
+  color: #fff !important;
+  padding: 0 !important;
+  font-size: 20px;
+}
+.rombo::after {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-top: 30px solid #555 !important;
+  bottom: -30px;
+  z-index: -2000;
+}
+/*----------shortcodes-accordion-toggles page start---------------*/
+.tab-content {
+  float: left;
+  width: 77%;
+  padding: 0px 20px;
+}
+.eco_tabmain_div {
+  float: left;
+  width: 100%;
+}
+.eco_tabmain_div h4 {
+  margin-top: 0px;
+}
+h6.eco_subheading {
+  color: #94bb54;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.8em;
+  font-family: Open Sans, "Helvetica Neue", Arial, Helvetica, Verdana,
+    sans-serif;
+  float: left;
+  width: 100%;
+}
+.eco_tabmain_div p {
+  font-size: 15px;
+  margin: 0px;
+}
+.eco_toggle_div {
+  float: left;
+  width: 100%;
+}
+h2.eco_trigger {
+  float: left;
+  width: 100%;
+  font-size: 18px !important;
+  text-transform: uppercase;
+  color: #95a5a6;
+  background: #ecf0f1;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+}
+.eco_toggle_container {
+  padding: 15px;
+  float: left;
+  width: 100%;
+  padding-top: 0px;
+  display: none;
+}
+h2.eco_trigger.active,
+h2.eco_trigger:hover {
+  background: #94bb54;
+  color: #fff;
+}
+/*----------shortcodes-accordion-toggles page end---------------*/
+.bg_accordeon__title {
+  background: #d9d9d9 !important;
+}
+
+
+/* About */
+.btn__rounded{
+  border-radius: 20px !important;
+  background-color: #e8e5e5 !important;
+}
+.bg__title{
+  background-color: #d9d9d9;
+}
+.bg__secretariat{
+  background-color: #f6efef;
+}

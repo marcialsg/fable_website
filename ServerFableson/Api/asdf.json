@@ -1,0 +1,118 @@
+{
+    "Biodiversity": {
+        "indicators": [
+            {
+                "indicator": "Area of land where natural processes predominate",
+                "threshold": "At least 15% increase in LNPP since 2020.",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Total area land inside protected areas or other effective conservation measures",
+                "threshold": "At least 30% of land is inside PA or OECM",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Loss of forest",
+                "threshold": "No loss of existing forest",
+                "time": "From 2030 on",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Cropland area under agroecological practices",
+                "threshold": "At least 50% of cropland is under agroecological practices ",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            }
+        ]
+    },
+    "Greenhouse gas emissions": {
+        "indicators": [
+            {
+                "indicator": "Methane emissions from crops and livestock",
+                "threshold": "-10.3 Mt CH4 from 2020 level.",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Methane emissions from crops and livestock",
+                "threshold": "-28.2 Mt CH4.",
+                "time": "By 2050",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Annual CO2 emissions from land use change and on-farm energy use by source",
+                "threshold": "< -1.3 Gt CO2.",
+                "time": "By 2050",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Cumulative CO2 emissions from AFOLU 2020-2050",
+                "threshold": "<= 40 Gt CO2.",
+                "time": "By 2050",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Total agricultural emissions 2050",
+                "threshold": "<= 4 GtCO2e yr-1.",
+                "time": "By 2050",
+                "result_comments": "result comments"
+            }
+        ]
+    },
+    "Food security": {
+        "indicators": [
+            {
+                "indicator": "Average daily intake per capita in 2030",
+                "threshold": "MDER.",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Evolution of daily calories intake per capita by country",
+                "threshold": "MDER.",
+                "time": "By 2030",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Share of undernourished",
+                "threshold": "5%",
+                "time": "From 2030 on",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Share of obese",
+                "threshold": "5%",
+                "time": "From 2030 on",
+                "result_comments": "result comments"
+            }
+        ]
+    },
+    "Water": {
+        "indicators": [
+            {
+                "indicator": "Water use for irrigation",
+                "threshold": "< 2,453 km3 yr-1.",
+                "time": "NA",
+                "result_comments": "result comments"
+            }
+        ]
+    },
+    "Nitrogen and Phosphorus": {
+        "indicators": [
+            {
+                "indicator": "Nitrogen Application",
+                "threshold": "<69 Tg N yr-1.",
+                "time": "NA",
+                "result_comments": "result comments"
+            },
+            {
+                "indicator": "Phosphorus Application",
+                "threshold": "<16 Tg N yr-1.",
+                "time": "NA",
+                "result_comments": "result comments"
+            }
+        ]
+    }
+}
